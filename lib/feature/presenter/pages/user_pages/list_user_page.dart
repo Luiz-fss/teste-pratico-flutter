@@ -90,4 +90,5 @@ class _ListUserPageState extends State<ListUserPage> {
       _listUsers = widget.getUsersUseCase.execute();
     });
   }
+
 }
